@@ -1,0 +1,14 @@
+{
+  "123": {
+    "N": 8,
+    "sim_success_rate": 1.0,
+    "hw_success_rate": 1.0,
+    "runs": 5
+  },
+  "253": {
+    "N": 10,
+    "sim_success_rate": 1.0,
+    "hw_success_rate": 0.6666666666666666,
+    "runs": 3
+  }
+}
