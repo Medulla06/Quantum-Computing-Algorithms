@@ -31,7 +31,12 @@ The objective of this lab is to gain hands-on experience with quantum circuits a
 
 8. Lab8 - Error Mitigation Techniques in Quantum Computing
 
+## VQE Approach to Prime Factorization on NISQ Hardware
+
+This course project is a replication and extension of the research conducted by **Sobhani, Chai, Hartung, and Jansen** in *Physical Review A 111, 042413 (2025)*. It implements a Variational Quantum Eigensolver (VQE) pipeline optimized for integer factorization on IBM's Noisy Intermediate-Scale Quantum (NISQ) devices.
+
 ## References
 
 * Qiskit Documentation
 * Quantum Computation and Quantum Information – Nielsen & Chuang
+* Sobhani et al., "Prime factorization using variational quantum eigensolver," *Phys. Rev. A 111, 042413 (2025)*.
